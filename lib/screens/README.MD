@@ -1,0 +1,1 @@
+The screens directory is intended to hold the screens of the application for displaying to the user. 

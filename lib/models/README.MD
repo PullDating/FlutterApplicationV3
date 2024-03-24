@@ -1,0 +1,1 @@
+Models represent the data types that are sourced from the servers, users, or external APIs. 

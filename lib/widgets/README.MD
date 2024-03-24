@@ -1,0 +1,1 @@
+The widgets directory is intended for reusable widgets within the app

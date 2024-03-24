@@ -1,0 +1,1 @@
+The utilities folder is designed to hold the business logic of the application.
