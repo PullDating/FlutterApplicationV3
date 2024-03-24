@@ -4,7 +4,7 @@ A non-profit dating application frontend.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+See the project's documentation in the [Organization Repo](https://github.com/PullDating/Org/wiki)
 
 A few resources to get you started if this is your first Flutter project:
 
